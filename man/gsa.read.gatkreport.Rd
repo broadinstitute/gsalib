@@ -21,7 +21,7 @@ The GATKReport format replaces the multi-file output format used previously by m
 Returns a LIST object, where each key is the TableName and the value is the data.frame object with the contents of the table.  If multiple tables with the same name exist, each one after the first will be given names of TableName.v1, TableName.v2, ..., TableName.vN.
 }
 \references{
-http://www.broadinstitute.org/gatk/guide/article?id=1244
+https://gatk.broadinstitute.org/hc/en-us/articles/360035532172-GATKReport-and-gsalib
 }
 \author{
 Kiran Garimella
