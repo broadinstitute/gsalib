@@ -1,13 +1,13 @@
-\name{genotype_concordance_test.table}
+\name{test_genconcord.table}
 \docType{data}
-\alias{genotype_concordance_test.table}
+\alias{test_genconcord.table}
 \title{Test table for Genotype Concordance Table Reshape}
 \description{
    This is a GATKReport output by GenotypeConcordance.
 }
-\usage{genotype_concordance_test.table}
+\usage{test_genconcord.table}
 \format{Text document containing multiple tables}
-\source{GSA test data, Broad Institute}
+\source{GATK test data, Broad Institute}
 \references{
-   http://www.broadinstitute.org/gatk/guide/article?id=1244
+   https://gatk.broadinstitute.org/hc/en-us/articles/360035532172-GATKReport-and-gsalib
 }
