@@ -1,2 +1,3 @@
 export(gsa.read.gatkreport)
 export(gsa.reshape.concordance.table)
+importFrom("utils", "type.convert")
