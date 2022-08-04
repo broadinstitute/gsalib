@@ -22,10 +22,10 @@ This package is primarily meant to be used programmatically by GATK tools. Howev
 \author{
 Kiran Garimella
 
-Maintainer: Geraldine Van der Auwera <vdauwera@broadinstitute.org>
+Maintainer: Louis Bergelson <louisb@broadinstitute.org>
 }
 \references{
-http://www.broadinstitute.org/gatk/guide/article?id=1244
+https://gatk.broadinstitute.org/hc/en-us/articles/360035532172-GATKReport-and-gsalib
 }
 \keyword{ package }
 \examples{
