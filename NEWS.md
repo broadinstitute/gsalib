@@ -1,2 +1,3 @@
-2022-08-04
-Updated package metadata to assign new maintainer, update reference URL and resolve CRAN issues. No functional changes made to the package functions. 
+# Changes in gsalib 2.2.1 (2022-08-04)
+ - Updated package metadata to assign new maintainer, update reference URL and resolve CRAN issues. No functional changes made to the package functions. 
+ - 
