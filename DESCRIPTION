@@ -2,15 +2,14 @@ Package: gsalib
 Type: Package
 Title: Utility Functions for 'GATK'
 Version: 2.2.1
-Date: 2022-08-19
+Date: 2022-10-07
 Author: Kiran Garimella
 Maintainer: Louis Bergelson <louisb@broadinstitute.org>
 Description: Provides utility functions used by the Genome Analysis Toolkit ('GATK') to load tables and plot data. The 'GATK' is a toolkit for variant discovery in high-throughput sequencing data.
-URL: https://gatk.broadinstitute.org/, https://github.com/broadinstitute/gatk, https://github.com/broadinstitute/gsalib/
+URL: https://gatk.broadinstitute.org/hc/en-us, https://github.com/broadinstitute/gatk, https://github.com/broadinstitute/gsalib/
 BugReports: https://github.com/broadinstitute/gsalib/issues
 License: MIT + file LICENSE
 LazyLoad: yes
-Packaged: 2013-07-02 07:56:13 UTC; gege
 NeedsCompilation: no
 Repository: CRAN
 Date/Publication: 2013-07-03 17:30:49

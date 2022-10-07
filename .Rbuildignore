@@ -1,3 +1,4 @@
 ^\.github$
 ^revdep$
 ^cran-comments.md
+^CRAN-SUBMISSION$
